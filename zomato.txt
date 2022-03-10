@@ -1,0 +1,11 @@
+id,name,dish,status,order_time,delivery_time,price,quantity,eta,hotel_name
+1,shad,veg_biryani,order_placed,8.5,0,90,5,1,mugal_darbar
+2,sarajul,egg_biryani,delivered,10.0,11.0,120,3,0.5,kohinoor
+3,Ramesh,chicken_biryani,delivered,9.5,10.0,150,2,0.25,saahi_darbar
+4,Raj,veg_biryani,delivered,10.0,11.5,90,2,0.5,national
+5,Raj,veg_biryani,delivered,9.15,9.30,90,1,0.3,mugal_darbar
+6,shyam,egg_biryani,order_placed,8.75,0,120,3,1,kohinooor
+7,sarajul,veg_biryani,delivered,10.0,11.30,90,2,1.5,saahi_darbar
+8,sarajul,egg_biryani,delivered,10.0,11.20,120,4,1,mugal_darbar
+9,sarajul,egg_biryani,delivered,10.0,11.10,120,1,1.25,saahi_darbar
+10,Rahul,chicken_biryani,delivered,9.5,10.30,150,2,1.75,kohinooor
